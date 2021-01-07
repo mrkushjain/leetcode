@@ -79,6 +79,9 @@
 // 👍 2824 👎 3860
 
 
+import java.util.HashMap;
+import java.util.Map;
+
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     Map<String, Integer> romanIntMap;
